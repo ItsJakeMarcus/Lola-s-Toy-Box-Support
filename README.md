@@ -1,2 +1,2 @@
-# Lola-s-Toy-Box-Support
-Support email for the iOS Application Lola's Toy Box
+# Lola's Toy Box Support
+If you are experiencing any issues with Lola's Toy Box, please contact the developer on jmaidmentdev@gmail.com
